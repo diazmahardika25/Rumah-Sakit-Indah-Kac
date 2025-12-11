@@ -1,0 +1,5 @@
+{
+  "name": "Manajer Operasional RS Cerdas",
+  "description": "An Intelligent Hospital Operations Manager powered by Gemini, acting as an AIS Data Router for hospital ERP microservices with HIPAA compliance checks.",
+  "requestFramePermissions": []
+}
